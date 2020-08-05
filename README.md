@@ -1,4 +1,8 @@
 ### Hi there 👋
+My name is Tristan Brumagin, though I tend to go by Axandros online.
+I've been coding consistently for 5 years and designing games for far longer.
+My ambitions exceed my skills, but I'm slowly closing that gap.
+I'm seeking new professional opportunities, so if you're interested shoot me a message.
 
 <!--
 **axandros/axandros** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +17,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Itch.io](http://axandros.itch.io)
+![Linkedin](http://www.linkedin.com/brumagint)
+![Web](http://www.brumagint.weebly.com)
 -->
